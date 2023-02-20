@@ -1,5 +1,5 @@
 
-A placeholder for Playstation 2 ImHex stuff.
+A placeholder for Playstation 2 [ImHex](https://github.com/WerWolv/ImHex) stuff.
 
 ## Installing
 
